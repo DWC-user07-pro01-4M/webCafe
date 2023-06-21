@@ -121,4 +121,8 @@ img{
         flex-direction:column;
         align-items:center;
     }
+    /*MENU*/
+    .menu-content{
+        margin-top: 20%;
+    }
 }
