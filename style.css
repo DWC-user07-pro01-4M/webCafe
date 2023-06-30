@@ -129,6 +129,11 @@ footer p{
     width: 100%;
     object-fit: cover;
 }
+/*CONTACT*/
+#contact{
+    background-image: url(images/contact-bg.jpg);
+    min-height: 100vh;
+}
 /* レスポンシブに対応させる */
 @media (max-width:600px){
     .page-title{
