@@ -154,4 +154,12 @@ footer p{
     .menu-content{
         margin-top: 20%;
     }
+    /*写真レイアウトを変える*/
+    .big-box{
+        grid-column: auto;
+        grid-row: auto;
+    }
+    .big-box imag{
+        height: auto;
+    }
 }
